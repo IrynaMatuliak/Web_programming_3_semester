@@ -95,9 +95,9 @@
             cursor: pointer;
         }
 
-	.feature:hover {
+	    .feature:hover {
     	    transform: scale(1.05);
-	}
+	    }
 
         .feature img {
             max-width: 80px;
@@ -208,12 +208,12 @@
     }
 
     footer p {
-        padding: 38px;
+        padding: 20px;
         margin: 0;
     }
 }
 
-        @media (max-width: 768px) {
+ @media (max-width: 768px) {
 
     .content {
         flex-direction: column;
@@ -270,7 +270,7 @@
     }
 
     footer p {
-        padding: 38px;
+        padding: 20px;
         margin: 0;
     }
 }
